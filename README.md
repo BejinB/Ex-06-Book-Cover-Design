@@ -144,3 +144,5 @@ Add images and other contents using CSS record a screenshot of it.
 ## output:
 
 ![image](https://user-images.githubusercontent.com/118367518/215319404-953e071d-c03a-4ba0-898d-69e5b7077756.png)
+## RESULT:
+Successfully designed a website to display the cover page of the book "Responsive Web Design with HTML5 and CSS".
